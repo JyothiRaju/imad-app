@@ -4,10 +4,10 @@ import Paper from 'material-ui/Paper';
 import Menu from 'material-ui/Menu';
 import MenuItem from 'material-ui/MenuItem';
 const style = {
-display: 'autoCentered',
-sizes:10,
+//display: 'autoCentered',
+//sizes:10,
 float:'left',
-margin: '151247136450000px 60655536234500000px 10000000px 100000000000',
+position:'151247136450000,606555362345000000000,10000000,1000000000000000000',
                                             };
 const MyMenu = () =>(<div>
 <Paper style={style}>
